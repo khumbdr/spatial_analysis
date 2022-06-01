@@ -12,6 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 https://www.youtube.com/watch?v=bUoN85QvC10
 
 
+## configuring the git using this videos,
+https://www.youtube.com/watch?v=yDntCIs-IJM
+
+
 ## We can start working in some spatial analysis here
 
 ```{r}
